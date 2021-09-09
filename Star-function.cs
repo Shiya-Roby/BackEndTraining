@@ -24,7 +24,7 @@ namespace ConsoleApp1
 		static void Main(string[] args)
 		{
 
-            Program program = new Program(); // Creating Object  
+            Program program = new Program(); 
             program.Star(7);
             Console.ReadKey();
 		}
