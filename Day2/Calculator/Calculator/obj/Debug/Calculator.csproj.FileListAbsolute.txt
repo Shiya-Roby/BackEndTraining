@@ -1,6 +1,0 @@
-C:\Users\sroby\Desktop\Training\BackEnd\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\sroby\Desktop\Training\BackEnd\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\sroby\Desktop\Training\BackEnd\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\sroby\Desktop\Training\BackEnd\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\sroby\Desktop\Training\BackEnd\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\sroby\Desktop\Training\BackEnd\Calculator\Calculator\obj\Debug\Calculator.pdb
