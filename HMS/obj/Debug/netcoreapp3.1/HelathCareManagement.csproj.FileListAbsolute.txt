@@ -1,0 +1,4 @@
+C:\Users\sroby\Desktop\Training\BackEnd\ConsoleApp1\obj\Debug\netcoreapp3.1\HelathCareManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroby\Desktop\Training\BackEnd\ConsoleApp1\obj\Debug\netcoreapp3.1\HelathCareManagement.AssemblyInfoInputs.cache
+C:\Users\sroby\Desktop\Training\BackEnd\ConsoleApp1\obj\Debug\netcoreapp3.1\HelathCareManagement.AssemblyInfo.cs
+C:\Users\sroby\Desktop\Training\BackEnd\ConsoleApp1\obj\Debug\netcoreapp3.1\HelathCareManagement.csproj.CoreCompileInputs.cache
